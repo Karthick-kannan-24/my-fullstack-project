@@ -6,7 +6,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://my-fullstack-project-backend.onrender.com'], // allow all (dev)
+    'allowed_origins' => ['https://my-fullstack-project-qunw.onrender.com'], // allow all (dev)
 
     'allowed_headers' => ['*'],
 
