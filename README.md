@@ -207,9 +207,10 @@ Git Push → GitHub → Render Build → Auto Deploy
 
 ## 👨‍💻 Author
 
-Karthick Kannan
+Karthick Kannan R
 
-* LinkedIn: https://www.linkedin.com/in/karthick-kannan1997/
+- GitHub: https://github.com/Karthick-kannan-24
+- LinkedIn: https://www.linkedin.com/in/karthick-kannan-2421997/
 
 ---
 
